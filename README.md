@@ -24,7 +24,7 @@
 
 - [剑指 Offer 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/剑指%20Offer%20题解%20-%20目录.md)
 - [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode%20题解%20-%20目录.md)
-- [算法](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
+- [算法](notes/算法%20-%20目录.md)
 - [字节跳动内推](assets/内推.md)
 
 ## :computer: 操作系统
@@ -140,3 +140,4 @@ Logo：[logomakr](https://logomakr.com/)
 <a href="https://github.com/5renyuebing">
     <img src="https://avatars1.githubusercontent.com/u/32872430?s=400&v=4" width="50px">
 </a>
+
